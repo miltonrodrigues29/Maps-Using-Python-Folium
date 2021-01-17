@@ -1,4 +1,4 @@
-# MapsUsingPythonFolium
+# Maps Using Python Folium
 This repo includes some basic applications implemented using python folium Python library.
 
 
